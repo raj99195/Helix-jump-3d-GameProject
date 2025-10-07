@@ -27,28 +27,5 @@ Guide the ball through rotating platforms, avoid dangerous zones, and aim for th
 
 
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/Helix-Jump-3D.git
-2️⃣ Open in Unity
-Recommended Unity Version: 6000.0.46f1 LTS (or compatible)
-
-Open the Assets/Scenes/Splash.unity scene
-
-3️⃣ Play the game
-Press ▶ Play in Unity Editor
-
-Or build for Webgl via File > Build Settings
-
-📸 Screenshots
-Gameplay	Level Transition
-
-📜 License
-This project is licensed under the MIT License – feel free to use, modify, and distribute.
-
-💡 Credits
-Game inspired by Helix Jump by Voodoo
 
 Developed by Raj Agrahari
